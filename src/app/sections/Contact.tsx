@@ -32,7 +32,7 @@ export const Contact = () => {
     <section className="section-alt w-full">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <AnimatedSection className="py-20">
-          <h2 className="text-4xl font-bold mb-8 text-center">Let's Connect</h2>
+          <h2 className="text-4xl font-bold mb-8 text-center">Let&apos;s Connect</h2>
           <p className="text-center text-foreground/80 mb-12 max-w-2xl mx-auto">
             Feel free to reach out for collaborations, opportunities, or just to say hello!
           </p>

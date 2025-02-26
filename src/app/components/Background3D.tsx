@@ -1,7 +1,7 @@
 'use client';
 
 import { Canvas, useFrame } from '@react-three/fiber';
-import { OrbitControls, Points } from '@react-three/drei';
+import { OrbitControls } from '@react-three/drei';
 import { useMemo, useRef } from 'react';
 import * as THREE from 'three';
 

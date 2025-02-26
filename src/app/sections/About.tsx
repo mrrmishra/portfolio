@@ -50,7 +50,7 @@ export const About = () => {
               viewport={{ once: true }}
               className="space-y-8"
             >
-              {personalPassions.map((passion, i) => (
+              {personalPassions.map((passion) => (
                 <motion.div
                   key={passion.title}
                   variants={itemVariants}
@@ -127,7 +127,7 @@ export const About = () => {
               viewport={{ once: true }}
               className="space-y-8"
             >
-              {professionalPassions.map((passion, i) => (
+              {professionalPassions.map((passion) => (
                 <motion.div
                   key={passion.title}
                   variants={itemVariants}

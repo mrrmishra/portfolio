@@ -1,6 +1,6 @@
 'use client';
 
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 import { Hero } from './sections/Hero';
 import { About } from './sections/About';
 import { Projects } from './sections/Projects';
